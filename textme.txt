@@ -5,3 +5,5 @@ klajsdlfka
 jlkajsldfka
 
 Modify text to test more
+
+Test automatic merge
