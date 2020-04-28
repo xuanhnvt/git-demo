@@ -1,3 +1,5 @@
 Test Git quick start demo.
 
 Okay, test diff again
+
+Test switch branch
