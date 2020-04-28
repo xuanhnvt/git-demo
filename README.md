@@ -1,5 +1,5 @@
 # git-demo
-Simple repository to get started with Git.
+Simple repository to get started with Git. On master
 
 # git diff
-Okay, modified one more time
+Change on master
