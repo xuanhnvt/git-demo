@@ -10,3 +10,5 @@ Modifie more
 Change on master branch
 
 edit on master branch
+
+Edit to test git rebase from remote repository
